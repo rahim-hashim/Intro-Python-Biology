@@ -3,7 +3,8 @@ Course material for Intro to Python for Columbia Biological Sciences Department
 
 ## Syllabus
 
-## Lectures 
+## Lectures
+All lectures and notes will be posted here after the lesson for the week.
 
 ## Assignments
 
