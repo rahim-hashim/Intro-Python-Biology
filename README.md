@@ -4,8 +4,8 @@ Course material for Intro to Python for Columbia Biological Sciences Department
 ## Syllabus
 
 | Date | Lecture | Topic | Assignment | Note |
-|:----:|:-:| ----------- | ---------- | ---- | 
-| 6/25 | 0 | Getting familiar with [Google Colab](https://research.google.com/colaboratory/) | - | - |
+|:----:|:-:| ----------- | :----------: | ---- | 
+| 6/25 | 0 | Getting familiar with [Google Colab](https://research.google.com/colaboratory/) | - | Before the course, everyone should get familiar with Google Colab, which will be the primary way in which we write and run code |
 | 7/2  | 1 | Data types, code execution, markdown | - | - |
 | 7/9  | 2 | Functions, for loops  | - | - |
 | 7/16 | 3 | Plotting | - | - |
