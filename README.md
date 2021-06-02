@@ -15,9 +15,9 @@ Course material for Intro to Python for Columbia Biological Sciences Department
 | 8/13 | 7 | Final project presentations | - | - |
 
 ## Instructors
-* Rahim Hashim [rh2898@columbia.edu](mailto:rh2898@columbia.edu?subject=[Intro Python]%20Source%20Han%20Sans)
-* Shanice Bailey [stb2145@columbia.edu](mailto:stb2145@columbia.edu?subject=[Intro Python]%20Source%20Han%20Sans)
-* Jonathan Reeve [jpr2152@columbia.edu](mailto:jpr2152@columbia.edu?subject=[Intro Python]%20Source%20Han%20Sans)
+* Rahim Hashim [rh2898@columbia.edu](mailto:rh2898@columbia.edu?subject=[Intro-Python]%20Source%20Han%20Sans)
+* Shanice Bailey [stb2145@columbia.edu](mailto:stb2145@columbia.edu?subject=[Intro-Python]%20Source%20Han%20Sans)
+* Jonathan Reeve [jpr2152@columbia.edu](mailto:jpr2152@columbia.edu?subject=[Intro-Python]%20Source%20Han%20Sans)
 
 ## Lectures
 All lectures and notes will be posted here after the lesson for the week.
