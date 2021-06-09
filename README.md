@@ -30,10 +30,14 @@ All assignments will be posted here after the lesson for the week. Solutions wil
 
 Additional resources that are often open on my computer while programming
 
-* [Google Colab Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-* [Google Python Programming Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Software Carpentry Github](https://github.com/swcarpentry/python-novice-inflammation)
-* [MATLAB to Python Cheatsheet](https://cheatsheets.quantecon.org/)
+* **Google Colab**
+  * [Google Colab Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+  * [Google Colab Debugger](https://pypi.org/project/ipdb/)
+* **Style**
+  * [Google Python Programming Style Guide](https://google.github.io/styleguide/pyguide.html)
+  * [Software Carpentry Github](https://github.com/swcarpentry/python-novice-inflammation)
+* **MATLAB**
+  * [MATLAB to Python Cheatsheet](https://cheatsheets.quantecon.org/)
 
 ## Final Project
 
