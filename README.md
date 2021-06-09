@@ -33,6 +33,7 @@ Additional resources that are often open on my computer while programming
 * [Google Colab Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
 * [Google Python Programming Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Software Carpentry Github](https://github.com/swcarpentry/python-novice-inflammation)
+* [MATLAB to Python Cheatsheet](https://cheatsheets.quantecon.org/)
 
 ## Final Project
 
