@@ -3,16 +3,16 @@ Course material for Intro to Python for Columbia Biological Sciences Department
 
 ## Syllabus
 
-| Date | Lecture | Topic | Assignment | Note |
-|:----:|:-:| ------------------------- | :----------: | ---- | 
-| 6/25 | 0 | Getting familiar with [Google Colab](https://research.google.com/colaboratory/) | - | Before the course, everyone should get familiar with Google Colab, which will be the primary way in which we write and run code |
-| 7/2  | 1 | Data types, code execution, markdown, conditionals | - | - |
-| 7/9  | 2 | Functions, for loops  | - | - |
-| 7/16 | 3 | Plotting | - | - |
-| 7/23 | 4 | CSV, data parsing, pandas | - | - |
-| 7/30 | 5 | NumPy, SciPy, statistics | - | - |
-| 8/6  | 6 | Machine learning, APIs | - | - |
-| 8/13 | 7 | Final project presentations | - | - |
+| Date | Lecture | Topic | Instructor | Assignment | Note |
+|:----:|:-:| ------------------------- | :----: | :----------: | ---- | 
+| 6/25 | 0 | Getting familiar with [Google Colab](https://research.google.com/colaboratory/) | - | - | Before the course, everyone should get familiar with Google Colab, which will be the primary way in which we write and run code |
+| 7/2  | 1 | Data Types, Code Execution, Markdown, Conditionals | Rahim | - | - |
+| 7/9  | 2 | Pandas, NumPy, SciPy | Shanice | - | - |
+| 7/16 | 3 | Plotting | Jonathan | - | - |
+| 7/23 | 4 | For Loops, Advanced Conditionals | Rahim | - | - |
+| 7/30 | 5 | APIs, Machine Learning | Jonathan | - | - |
+| 8/6  | 6 | Analysis and Application | Shanice | - | - |
+| 8/13 | 7 | Final project presentations | - | - | - |
 
 ## Instructors
 * Rahim Hashim ([rh2898@columbia.edu](mailto:rh2898@columbia.edu?subject=[Intro-Python]))
