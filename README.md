@@ -35,7 +35,7 @@ Additional resources that are often open on my computer while programming
   * [Google Colab Debugger](https://pypi.org/project/ipdb/)
 * **Style**
   * [Google Python Programming Style Guide](https://google.github.io/styleguide/pyguide.html)
-  * [Software Carpentry Github](https://github.com/swcarpentry/python-novice-inflammation)
+  * [Software Carpentry Github](http://swcarpentry.github.io/python-novice-gapminder/)
 * **MATLAB**
   * [MATLAB to Python Cheatsheet](https://cheatsheets.quantecon.org/)
 
