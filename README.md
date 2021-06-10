@@ -53,3 +53,6 @@ Potential datasets for project inspiration:
 * **Sports**
   * [Basketball Reference Dataset](https://github.com/vishaalagartha/basketball_reference_scraper/blob/master/API.md)
   * [European Football (Soccer) Dataset](https://data.world/data-society/european-soccer-data)
+
+* **Agriculture**
+  * [United Nations Food and Agriculture Organization](http://www.fao.org/faostat/en/#data)
