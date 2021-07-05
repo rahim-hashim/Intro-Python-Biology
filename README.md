@@ -6,7 +6,7 @@ Course material for Intro to Python for Columbia Biological Sciences Department
 | Date | Lecture | Topic | Instructor | Class Notes | Notebook | Assignment | Note | 
 |:----:|:-------:| ----- | :--------: | :---------: | :------: |:---------: | ---- | 
 | 6/25 | 0 | Getting familiar with [Google Colab](https://research.google.com/colaboratory/) | - | [Getting Started](https://www.youtube.com/watch?v=inN8seMm7UI) | - | Before the course, everyone should get familiar with Google Colab, which will be the primary way in which we write and run code | - |
-| 7/2  | 1 | Data Types, Code Execution, Markdown, Conditionals | Rahim | - | - | - | - |
+| 7/2  | 1 | Data Types, Code Execution, Markdown, Conditionals | Rahim | - | [Foundations of Python](https://github.com/rahim-hashim/Intro-Python-Biology/blob/main/Notebooks/Intro-Python_Lesson-1.ipynb) | - | - |
 | 7/9  | 2 | Pandas, NumPy, SciPy | Shanice | - | - | - | - |
 | 7/16 | 3 | Plotting | Jonathan | - | - | - | - |
 | 7/23 | 4 | For Loops, Advanced Conditionals | Rahim | - | - | - | - |
