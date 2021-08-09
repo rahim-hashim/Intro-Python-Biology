@@ -44,6 +44,8 @@ The class will incorporate a final project for groups of 3-4 students. The proje
 More information will be provided once the first class has been administered and there is a better sense of how many students will participate.
 
 Potential datasets for project inspiration:
+* **List of Public APIs**
+  * [Public API Repository](https://github.com/public-apis/public-apis#science--math)
 * **Music**
   * [Historical Billboard's Hot 100 Songs from 8/2/1958 – 12/28/2019](https://data.world/kcmillersean/billboard-hot-100-1958-2017)
   * [Music Lyrics and Metadata from 1950 to 2019](https://data.mendeley.com/datasets/3t9vbwxgr5/2)
